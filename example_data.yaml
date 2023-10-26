@@ -1,0 +1,12 @@
+names:
+- longan
+nc: 1
+roboflow:
+  license: Private
+  project: longan-single-fruit-counting
+  url: https://app.roboflow.com/bda/longan-single-fruit-counting/1
+  version: 1
+  workspace: bda
+test: ./Longan-single-fruit/datasets/test
+train: ./Longan-single-fruit/datasets/train
+val: ./Longan-single-fruit/datasets/valid
